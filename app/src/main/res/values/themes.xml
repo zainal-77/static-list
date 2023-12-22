@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplikasiSederhanaDetail_about" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+         <item name="android:background">@color/light_brown</item>
+
+    </style>
+
+    <style name="Theme.AplikasiSederhanaDetail_about" parent="Base.Theme.AplikasiSederhanaDetail_about" />
+</resources>
